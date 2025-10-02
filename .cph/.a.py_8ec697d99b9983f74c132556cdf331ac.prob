@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"/home/ujong.noh/baekjoon/a.py","tests":[{"id":1759042980602,"input":"10 500\n93 181 245 214 315 36 185 138 216 295","output":"21"},{"id":1759043609980,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ujong.noh/baekjoon/a.py","group":"local","local":true}
