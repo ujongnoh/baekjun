@@ -1,0 +1,1 @@
+{"name":"Local: 2750","url":"/home/ujong.noh/baekjoon/배열/2750.py","tests":[{"id":1760408431037,"input":"5\n5\n2\n3\n4\n1","output":"1\n2\n3\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ujong.noh/baekjoon/배열/2750.py","group":"local","local":true}

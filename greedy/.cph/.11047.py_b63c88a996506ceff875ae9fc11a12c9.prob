@@ -1,0 +1,1 @@
+{"name":"Local: 11047","url":"/home/ujong.noh/baekjoon/greedy/11047.py","tests":[{"id":1762219266954,"input":"10 4200\n1\n5\n10\n50\n100\n500\n1000\n5000\n10000\n50000","output":"6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/ujong.noh/baekjoon/greedy/11047.py","group":"local","local":true}
